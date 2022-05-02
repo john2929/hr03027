@@ -1,0 +1,79 @@
+Sample name (T Johnson sample name)	Sample type	Sample date	Malinowski sample name	Treatment Type 	Treatment ID 	Sex	d15N	d13C	StdLength_cm	MaxWidth_cm	Total Weight (g)	unidentified cladocera	bosmina	daphnia	ostracod	copepod	trobidiformes	chironomid	Ephemeroptera	Notes
+1YP	gut 	07/17/19	YP001	Control 	Source Pond	M	8.002710821	-23.47574018	4.0386		1.0222	297	468	42	7	6	0	0	0	
+2YP	gut 	07/17/19	YP002	Control 	Source Pond	M	NA	NA	4.318		1.2802	15	19	11	38	0	0	0	0	
+3YP	gut 	07/17/19	YP003	Control 	Source Pond	M	7.37617099	-24.21625275	4.191		1.297	271	328	128	5			1	0	
+4YP	gut 	07/17/19	YP004	Control 	Source Pond	M	6.83	-23.90	4.0132		1.0581	0	0	2	0	0	0	11	0	
+6YP	gut 	07/17/19	YP006	Control 	Source Pond	F	NA	NA	4.1656		1.0777	37	16	2	1	0	0	0	0	
+7YP	gut 	07/17/19	YP007	Control 	Source Pond	F	7.696446942	-24.69018079	4.1148		1.1577	44	344	25	2	0	0	0	1	
+8YP	gut 	07/17/19	YP008	Control 	Source Pond	F	7.579346047	-24.9312304	3.7846		0.818	0	0	0	0	0	0	0	0	
+9YP	gut 	07/17/19	YP009	Control 	Source Pond	F	6.534445755	-24.57578437	4.6228		1.4615	0	0	0	0	0	0	0	0	
+10YP	gut 	07/17/19	YP010	Control 	Source Pond	M	NA	NA	4.0132		1.0581	0	0	0	1	0	0	0	0	
+11YP	gut 	07/17/19	YP011	Control 	Source Pond	F	NA	NA	4.1656		1.2751	49	68	10	3	0	0	0	0	
+12YP	gut 	07/17/19	YP012	Control 	Source Pond	M	NA	NA	4.1402		1.1494	1	0	0	3	0	0	0	0	
+13YP	gut 	07/17/19	YP013	Control 	Source Pond	M	NA	NA	4.1402		1.2274	0	0	0	0	0	0	0	0	
+15YP	gut 	07/17/19	YP015	Control 	Source Pond	F	NA	NA	3.7592		0.8116	0	0	0	0	0	0	0	0	
+16YP	gut 	07/17/19	YP016	Control 	Source Pond	M	NA	NA	3.9624		1.064	12	4	0	0	0	1	0	0	
+YP61	gut 	9/10/19	YP061	Benthic	B1	F	10.16557436	-17.40966553	6.29	1.52	3.762	22	0	0	0	0	0	5	12	
+YP62	gut 	9/10/19	YP062	Benthic	B1	M	10.86317541	-17.19619363	8.67	2.22	10.7686	0	0	0	0	0	0	1	3	
+YP63	gut 	9/10/19	YP063	Benthic	B1	NA	NA	NA	7.93	2.1	8.5637	0	0	0	0	0	0	0	3	
+YP64	gut 	9/10/19	YP064	Benthic	B1	F	10.34472872	-16.93369469	5.83	1.4	3.2362	32	0	0	0	0	0	0	11	
+YP65	gut 	9/10/19	YP065	Benthic	B1	M	10.32471147	-18.04497424	5.3	1.23	2.3302	93	0	0	0	0	0	0	10	
+YP66	gut 	9/10/19	YP066	Benthic	B1	F	9.846299267	-16.77129262	6.78	1.52	4.3692	0	0	0	1	0	0	1	21	
+YP81	gut 	9/10/19	YP081	Benthic	B2	M	10.12553986	-16.30655715	5.53	1.47	3.0747	0	0	0	0	0	0	18	15	
+YP82	gut 	9/10/19	YP082	Benthic	B2	M	10.20660971	-18.64964105	6.13	1.44	3.2767	105	0	0	0	0	0	0	0	
+YP83	gut 	9/10/19	YP083	Benthic	B2	M	10.49685979	-17.81005301	5.58	1.31	2.6726	52	0	0	0	0	0	1	12	
+YP85	gut 	9/10/19	YP085	Benthic	B2	M	NA	NA	7.23	1.71	5.7133	0	0	0	0	0	0	0	0	
+YP86	gut 	9/10/19	YP086	Benthic	B2	F	9.746213032	-19.10314116	5.72	1.26	2.6093	87	0	0	2	0	0	2	23	
+YP87	gut 	9/10/19	YP087	Benthic	B2	M	NA	NA	6.08	1.39	3.3465	5	0	0	1	0	0	0	14	
+YP101	gut 	9/10/19	YP101	Pelagic	P1	M	10.39277011	-16.4127824	6.28	1.54	3.7551	0	0	0	0	0	0	16	6	
+YP102	gut 	9/10/19	YP102	Pelagic	P1	F	10.73206245	-18.21248329	5.57	1.24	2.3688	35	0	0	0	0	0	2	3	
+YP103	gut 	9/10/19	YP103	Pelagic	P1	M	10.03846484	-16.00320235	6.64	1.61	4.4612	0	0	0	0	0	0	8	15	
+YP104	gut 	9/10/19	YP104	Pelagic	P1	F	10.09351227	-16.95820821	5.71	1.32	2.9352	0	0	0	1	0	0	0	8	
+YP105	gut 	9/10/19	YP105	Pelagic	P1	NA	NA	NA	6.25	1.48	3.9727	0	0	0	3	0	0	0	3	
+YP106	gut 	9/10/19	YP106	Pelagic	P1	M	10.08750709	-17.20845039	5.95	1.38	3.1618	0	0	0	0	0	0	3	9	
+YP121	gut 	9/10/19	YP121	Pelagic	P2	M	10.47984513	-17.44132882	5.97	1.29	3.0097	17	0	0	0	0	0	9	7	
+YP122	gut 	9/10/19	YP122	Pelagic	P2	F	10.24364162	-17.31161145	5.41	1.26	2.5035	0	0	0	0	0	0	0	1	
+YP123	gut 	9/10/19	YP123	Pelagic	P2	F	10.75808487	-18.50766692	6.22	1.46	3.669	0	0	0	0	0	0	0	1	
+YP124	gut 	9/10/19	YP124	Pelagic	P2	M	10.24464248	-17.40149435	7.53	1.77	6.7222	0	0	0	0	0	0	0	14	
+YP125	gut 	9/10/19	YP125	Pelagic	P2	M	10.04046656	-17.28505514	6.01	1.46	3.7221	0	0	0	0	0	0	20	4	
+YP126	gut 	9/10/19	YP126	Pelagic	P2	F	10.09551399	-17.63641558	6.07	1.47	3.7213	0	0	0	1	0	0	10	21	
+YP141	gut 	9/10/19	YP141	Benthic	B3	M	9.774237178	-16.69979486			3.1395	0	0	0	2	0	0	15	5	
+YP142	gut 	9/10/19	YP142	Benthic	B3	F	10.95025044	-17.38106642			5.2357	0	0	0	0	0	0	0	0	
+YP143	gut 	9/10/19	YP143	Benthic	B3	F	10.62396931	-17.36778826			3.6919	3	0	0	0	0	0	0	4	
+YP144	gut 	9/10/19	YP144	Benthic	B3	M	10.87718749	-17.59760251			4.0473	0	0	0	0	0	0	0	3	
+YP145	gut 	9/10/19	YP145	Benthic	B3	F	10.37275286	-17.40762273			2.6736	62	0	0	0	0	0	0	3	
+YP146	gut 	9/10/19	YP146	Benthic	B3	M	10.98027631	-17.62007323			4.80028	0	0	0	0	0	0	0	1	
+YP161	gut 	9/10/19	YP161	Pelagic	P3	M	10.24864593	-16.28204363			4.3096	0	0	0	0	0	0	0	14	
+YP162	gut 	9/10/19	YP162	Pelagic	P3	M	9.125678376	-16.29430039			4.2375	0	0	0	0	0	0	17	12	
+YP163	gut 	9/10/19	YP163	Pelagic	P3	M	10.45182099	-19.15931797			3.4191	86	0	0	1	0	0	0	1	
+YP164	gut 	9/10/19	YP164	Pelagic	P3	F	9.756221656	-19.68125166			3.2158	0	0	0	2	0	0	0	10	
+YP165	gut 	9/10/19	YP165	Pelagic	P3	M	NA	NA			4.3788	31	0	0	2	0	0	0	5	
+YP166	gut 	9/10/19	YP166	Pelagic	P3	F	10.45782616	-17.30752586			4.6206	NA	NA	NA	NA	NA	NA	NA	NA	
+ENV15	invertebrates	7/17/19	ENV15	Benthic	Experimental Pond															
+B5	invertebrates	9/10/19	invertebrates	Pelagic 	Experimental Pond															
+ENV17	invertebrates	7/17/19	ENV17	Benthic	Source Pond															
+ENV19	invertebrates	7/17/19	ENV19	Benthic	Source Pond															
+B7	invertebrates	9/10/19	invertebrates	Benthic 	Experimental Pond															
+ENV21	invertebrates	7/17/19	ENV21	Benthic	Source Pond															
+ENV10-2	invertebrates	7/17/19	ENV10-2	Pelagic	Experimental Pond															
+ENV13	invertebrates	7/17/19	ENV13	Benthic	Experimental Pond															
+B3	macroalgae	9/10/19	macroalgae	Pelagic	Experimental Pond															
+R4	negative water control (1)																			
+B9	negative soil control (1)																			
+B10	negative soil control (2)																			
+R8	negative water control (2)																			
+B6	sediment 	9/10/19	Benthic sediment 	Benthic 	Experimental Pond															
+B1	sediment 	9/10/19	benthic sediment 	Benthic	Experimental Pond															
+B2	sediment 	7/17/19	ENV22 	Benthic	Source Pond															
+B4	sediment 	8/8/19	sediment	Benthic	Experimental Pond															
+R5	water 	9/10/19	Pelagic water	Pelagic 	Experimental Pond															
+R6	water 	7/17/19	Pelagic water	Pelagic 	Source Pond															
+R7	water 	7/17/19	Pelagic water	Pelagic 	Experimental Pond															
+R1	water 	8/8/19	Pelagic water	Pelagic	Experimental Pond															
+R2	water 	9/10/19	Pelagic water	Pelagic	Experimental Pond															
+R3	water 	9/10/19	Pelagic water	Pelagic	Experimental Pond															
+ENV1	zooplankton 	7/17/19	ENV1	Pelagic	Source Pond															
+ENV4	zooplankton 	7/17/19	ENV4	Pelagic	Source Pond															
+B8	zooplankton 	9/10/19	zooplankton	Pelagic	Experimental Pond															
+ENV7	zooplankton 	7/17/19	ENV7	Pelagic	Source Pond															
+ENV10-1	zooplankton 	7/17/19	ENV10-1	Pelagic	Experimental Pond															
